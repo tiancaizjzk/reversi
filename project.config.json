@@ -1,0 +1,36 @@
+{
+  "description": "项目配置文件。",
+  "client": "wechatgame/",
+  "svr": "server/",
+  "miniprogramRoot": "wechatgame/",
+  "qcloudRoot": "server/",
+  "setting": {
+    "urlCheck": false,
+    "es6": false,
+    "postcss": true,
+    "minified": true,
+    "newFeature": true,
+    "useMultiFrameRuntime": true,
+    "useApiHook": true,
+    "useApiHostProcess": true
+  },
+  "compileType": "game",
+  "libVersion": "2.2.5",
+  "appid": "wx23b4bc8a4dce7c9f",
+  "projectname": "reversi-online",
+  "isGameTourist": true,
+  "condition": {
+    "search": {
+      "list": []
+    },
+    "conversation": {
+      "list": []
+    },
+    "game": {
+      "list": []
+    },
+    "miniprogram": {
+      "list": []
+    }
+  }
+}
